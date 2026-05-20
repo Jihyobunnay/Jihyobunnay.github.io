@@ -1,0 +1,45 @@
+body {
+  margin: 0;
+  font-family: Arial;
+  background-color: #0f0f0f;
+  color: white;
+}
+
+/* Navbar */
+.navbar {
+  padding: 15px;
+  background: #111;
+  border-bottom: 2px solid #d11a2a;
+}
+
+.navbar a {
+  color: white;
+  text-decoration: none;
+}
+
+/* Post */
+.post-container {
+  max-width: 800px;
+  margin: auto;
+  padding: 40px 20px;
+}
+
+.post-container h1 {
+  font-size: 36px;
+}
+
+.date {
+  font-size: 14px;
+  color: #aaa;
+}
+
+.post-container p {
+  margin: 20px 0;
+  color: #ccc;
+  line-height: 1.6;
+}
+
+.post-container img {
+  width: 200px;
+  border-radius: 15px;
+}
